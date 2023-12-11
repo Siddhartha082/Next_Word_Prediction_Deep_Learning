@@ -84,7 +84,8 @@ The above code will take more than an hour to execute. Once the code is executed
 ![image](https://github.com/Siddhartha082/Next_Word_Prediction_Deep_Learning/assets/110781138/01eb55f6-adbe-4d80-9ecf-ea82dfb36a0f)
 
 # OUTPUT
-![image](https://github.com/Siddhartha082/Next_Word_Prediction_Deep_Learning/assets/110781138/f7934cb5-14ee-44e3-80d3-345805d1b97f)
+![image](https://github.com/Siddhartha082/Next_Word_Prediction_Deep_Learning/assets/110781138/a5b7972b-c0d1-4747-8c42-52e0444c8db4)
+
 
 The above code generates the next word predictions based on a given seed text. The ‘seed_text’ variable holds the initial text. The ‘next_words’ variable determines the number of predictions to be generated. Inside the for loop, the ‘seed_text’ is converted into a sequence of tokens using the tokenizer. The token sequence is padded to match the maximum sequence length.
 
